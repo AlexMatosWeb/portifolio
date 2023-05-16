@@ -31,6 +31,14 @@
         "name": "Postgresql",
         "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/postgresql.png"
       }
+      {
+        "name": "HTML",
+        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/html.png"
+      }
+      {
+        "name": "CSS",
+        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/css.png"
+      }
     ],
     "softSkills": [
       "Empatia",
@@ -47,13 +55,13 @@
   ],
   "portfolio": [
     {
-      "name": "Curso Ministrado na DIO para a criação de uma Pokedex",
-      "url": "https://github.com/AlexMatosWeb/pokedex",
+      "name": "Pokedex",
+      "url": "https://alexmatosweb.github.io/pokedex/pokedex/index.html",
       "github": true
     },
     {
-      "name": "TodoList com TypeScript",
-      "url": "https://github.com/AlexMatosWeb/todolist",
+      "name": "Gerador de Senha ",
+      "url": "https://alexmatosweb.github.io/geradordesenha/",
       "github": true
     }
   ],
