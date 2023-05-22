@@ -30,14 +30,6 @@
       {
         "name": "Postgresql",
         "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/postgresql.png"
-      },
-      {
-        "name": "HTML",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/html.png"
-      },
-      {
-        "name": "CSS",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/css.png"
       }
     ],
     "softSkills": [
@@ -54,6 +46,11 @@
     
   ],
   "portfolio": [
+     {
+      "name": "Reserva de Hotel",
+      "url": "https://alexmatosweb.github.io/reservahotel/index.html",
+      "github": true
+    },
     {
       "name": "Pokedex",
       "url": "https://alexmatosweb.github.io/pokedex/pokedex/index.html",
@@ -72,14 +69,14 @@
       "description": "Sou responsável pela publicações no site, Sua divigação, Manuntenção etc."
     },
     {
-      "name": "Vigilante / Jumper ",
-      "period": "2020 - 2023",
+      "name": "Desenvolvedor Front end / Freelancer ",
+      "period": "2022 - até o momento",
       "description": "Fazia a segurança de um clube escola em São Paulo."
     },
     {
-      "name": "Porteiro / Santana Quality",
-      "period": "2013 - 2017",
-      "description": "Atuava como porteiro de um condomínio residencial."
+      "name": "Vigilante / Jumper ",
+      "period": "2020 - 2023",
+      "description": "Atuava como segurança de clube escola em São Paulo."
     }
   ]
 }
