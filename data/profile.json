@@ -28,8 +28,8 @@
         "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/php.png"
       },
       {
-        "name": "Postgresql",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/postgresql.png"
+        "name": "C#",
+        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/csharp.png"
       }
     ],
     "softSkills": [
@@ -57,16 +57,16 @@
       "github": true
     },
     {
-      "name": "Gerador de Senha ",
-      "url": "https://alexmatosweb.github.io/geradordesenha/",
+      "name": "X-Men ",
+      "url": "https://alexmatosweb.github.io/x-men-main/",
       "github": true
     }
   ],
   "professionalExperience": [
     {
-      "name": "Desenvolvedor Web / Portal Aribice.com",
-      "period": "2022 - até o momento",
-      "description": "Sou responsável pela publicações no site, Sua divigação, Manuntenção etc."
+      "name": "Desenvolvedor Front End / Trigan",
+      "period": "2023 - até o momento",
+      "description": "Responsável pela manutenção e alterações no site principal da empresa"
     },
     {
       "name": "Desenvolvedor Front end / Freelancer ",
@@ -74,9 +74,9 @@
       "description": "Trabalhos aleatórios, para comerciantes locais."
     },
     {
-      "name": "Vigilante / Jumper ",
-      "period": "2020 - 2023",
-      "description": "Atuava como segurança de clube escola em São Paulo."
+      "name": "Desenvolvedor Web / Portal Aribice.com ",
+      "period": "2022 - até o momento",
+      "description": "Sou responsável pela publicações no site, Sua divigação, Manuntenção etc."
     }
   ]
 }
