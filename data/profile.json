@@ -34,6 +34,10 @@
       {
         "name": "MySql",
         "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/mysql.png"
+      },
+      {
+        "name": "Docker",
+        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/docker.png"
       }
     ],
     "softSkills": [
