@@ -2,7 +2,7 @@
   "name": "Alex Matos",
   "photo": "https://avatars.githubusercontent.com/u/99854820?v=4",
   "job": "Desenvolvedor Web",
-  "location": "São Paulo - SP",
+  "location": "Euclides da Cunha - BA",
   "phone": "(11) 96511-2901",
   "email": "alexmatos@aribice.com",
   "skills": {
@@ -55,8 +55,8 @@
   ],
   "portfolio": [
     {
-      "name": "Portal Aribicé",
-      "url": "",
+      "name": "One Piece",
+      "url": "https://alexmatosweb.github.io/projeto-one-piece-final-main/",
       "github": true
     },
      {
